@@ -7,7 +7,7 @@ Marsto is a web app that adapts [Dayder](https://github.com/trishume/dayder) to 
 
 ## Credit
 
-All credit goes to [Tristan Hume](http://thume.ca/) and [Marc Mailhot's](http://mlht.ca/)  for developing the [Dayder](https://github.com/trishume/dayder) project and credit goes to Boris Marjanovic for providing the [datasets used](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) in this project.
+All credit goes to [Tristan Hume](http://thume.ca/) and [Marc Mailhot](http://mlht.ca/) for developing the [Dayder](https://github.com/trishume/dayder) project and credit goes to Boris Marjanovic for providing the [datasets used](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) in this project.
 
 ## License
 
